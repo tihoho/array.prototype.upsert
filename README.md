@@ -12,8 +12,13 @@ where:
 ## Install
 
 ### For node
-`npm i array.prototype.upsert`
+1. In Command line:
 
+```npm i array.prototype.upsert```
+
+2. In code: 
+
+`require('array.prototype.upsert')`
 ### For browsers
 `<script src="array.upsert.js"></script>`
 
