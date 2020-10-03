@@ -1,0 +1,25 @@
+{
+  "name": "array.prototype.upsert",
+  "version": "1.0.0",
+  "description": "Method .upsert() for Array of objects",
+  "main": "array.upsert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tihoho/array.prototype.upsert.git"
+  },
+  "keywords": [
+    "Array.prototype.upsert",
+    "upsert",
+	"array update or insert",
+	"array of objects"
+  ],
+  "author": "Alex (tiho1022@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tihoho/array.prototype.upsert/issues"
+  },
+  "homepage": "https://github.com/tihoho/array.prototype.upsert#readme"
+}
